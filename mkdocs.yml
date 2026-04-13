@@ -60,6 +60,7 @@ nav:
       - SerializedDataSigningCheck: Diagnostics/HealthChecker/SerializedDataSigningCheck.md
       - SettingOverridesCheck: Diagnostics/HealthChecker/SettingOverridesCheck.md
       - InternalTransportCertificateCheck: Diagnostics/HealthChecker/InternalTransportCertificateCheck.md
+      - TrustedRootCertificatesCheck: Diagnostics/HealthChecker/TrustedRootCertificatesCheck.md
       - SMBv1Check: Diagnostics/HealthChecker/SMBv1Check.md
       - EEMSCheck: Diagnostics/HealthChecker/EEMSCheck.md
       - AMSICheck: Diagnostics/HealthChecker/AMSIIntegration.md
@@ -106,6 +107,8 @@ nav:
       - ModernPublicFolderToMailboxMapGenerator: PublicFolders/Migration/ModernPublicFolderToMailboxMapGenerator.md
       - SetMailPublicFolderExternalAddress: PublicFolders/Migration/SetMailPublicFolderExternalAddress.md
       - Sync-ModernMailPublicFolders: PublicFolders/Migration/Sync-ModernMailPublicFolders.md
+    - Export-PublicFolderStatistics: PublicFolders/Export-PublicFolderStatistics.md
+    - ManagePublicFolderPermissions: PublicFolders/ManagePublicFolderPermissions.md
     - SourceSideValidations: PublicFolders/SourceSideValidations.md
     - Update-PublicFolderPermissions: PublicFolders/Update-PublicFolderPermissions.md
     - ValidateMailEnabledPublicFolders: PublicFolders/ValidateMailEnabledPublicFolders.md
@@ -140,6 +143,7 @@ nav:
     - SetupLogReviewer: Setup/SetupLogReviewer.md
   - Transport:
     - Compute-TopExoRecipientsFromMessageTrace: Transport/Compute-TopExoRecipientsFromMessageTrace.md
+    - Get-AllMessageTraceResults: Transport/Get-AllMessageTraceResults.md
     - ReplayQueueDatabases: Transport/ReplayQueueDatabases.md
     - Measure-EmailDelayInMTL: Transport/Measure-EmailDelayInMTL.md
 theme:
