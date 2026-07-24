@@ -1,8 +1,9 @@
+!scriptblock
 adfs
 Adsi
 amsi
-Antispam
 anob
+Antispam
 asmx
 Authenticode
 authsspi
@@ -40,14 +41,17 @@ Eventlog
 evtx
 Exchweb
 exfiltration
+exopf
+exov
 fabrikam
 FIPFS
 fips
-Fsis
 fltmc
 freb
+Fsis
 FYDIBOHF
 GCDO
+github
 globalsequence
 Hashtable
 HHMM
@@ -79,6 +83,7 @@ ldifde
 Liant
 Linq
 LOCALAPPDATA
+lockdown
 logman
 lsass
 Lync
@@ -87,6 +92,9 @@ Mbps
 mbxs
 Mddhhmm
 Mddhhmmss
+mepf
+mepfdns
+mepfs
 meso
 mesos
 mfcmapi
@@ -112,8 +120,8 @@ notin
 notlike
 notmatch
 nspi
-ntlm
 NTFS
+ntlm
 NUMA
 nupkg
 odata
@@ -142,7 +150,6 @@ Runtimes
 sccm
 Schannel
 SCOM
-!scriptblock
 SERVERNAME
 Servicehost
 servicelet
@@ -150,6 +157,7 @@ Sids
 Snapin
 SPDLT
 STMP
+subfolders
 syncall
 tcpip
 TDSDSA
@@ -158,6 +166,7 @@ UCMA
 unconfigured
 unrequired
 USERDNSDOMAIN
+validatemepf
 Vianet
 Visio
 vmxnet
